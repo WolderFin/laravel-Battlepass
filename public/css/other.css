@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GothamLight";
+    src: url(/media/font/GothamLight.otf);
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #0B0718;
+    color: white; 
+    font-family: "GothamLight";
+}
+.contain{
+    text-align: center;
+    margin-top: 50px;
+}
+.contain > img{
+    width: 35%;
+}
